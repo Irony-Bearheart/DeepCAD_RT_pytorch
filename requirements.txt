@@ -1,0 +1,10 @@
+csbdeep
+gdown
+matplotlib
+numpy
+onnx
+opencv-python
+PyYAML
+scikit-image
+tifffile
+torch #Install the version you want
